@@ -1,5 +1,5 @@
 # libft
-19's cursus libft
+42 cursus libft
 
 final grade : 115%
 
