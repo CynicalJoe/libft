@@ -7,4 +7,4 @@ usage :
 
 make to create libft.a
 
-make bonus to compile with bonus fonctions
+make bonus to compile with bonus functions
